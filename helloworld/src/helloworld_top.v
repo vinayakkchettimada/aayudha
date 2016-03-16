@@ -1,4 +1,4 @@
-module mojo_top(
+module helloworld_top(
     // 50MHz clock input
     input clk,
     // Input from reset button (active low)
